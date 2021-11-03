@@ -1,6 +1,6 @@
 # Realtime Bus Tracking System
 
-![name-of-you-image](https://github.com/emeritus101/blob/main/bus/bus.JPG)
+![name-of-you-image](https://github.com/emeritus101/bus/blob/main/bus.JPG)
 
 ## Description: 
 Using the free Mapbox account, we are using HTML, CSS and Javascript to map the route of the bus between MIT and Harvard. 
